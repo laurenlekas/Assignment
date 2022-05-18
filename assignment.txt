@@ -1,0 +1,16 @@
+<!doctype html>
+<html>
+<head>
+<title>Assignment</title>
+</head>
+<body>
+<h1>Introduction</h1>
+<p> My name is <b>Adeleke Olanrewaju,</b> an aspiring
+full stack developer who has a background in Statistics
+and Geographical information system.</p>
+<p> My goal for this internship is to familiarize myself
+ with the basic and intermediate concepts of frontend and
+ backend tools, and with practice, become an expert at 
+full stack web development.</p>
+</body>
+</html> 
